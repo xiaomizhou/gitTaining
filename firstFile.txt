@@ -3,4 +3,4 @@ That's a cat
 That's a dog
 conflict2
 conflict from testBranch
-
+create conflict from testBranch
