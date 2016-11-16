@@ -2,4 +2,4 @@ What's inside it?
 That's a cat
 That's a dog
 conflict2
-
+conflict from master
