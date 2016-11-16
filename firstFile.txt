@@ -3,3 +3,4 @@ That's a cat
 That's a dog
 conflict2
 conflict from master
+conflict from testBranch
