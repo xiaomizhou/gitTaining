@@ -1,0 +1,4 @@
+create file
+create conflict from testBranch
+create conflict from master
+create conflict from betaBranch
