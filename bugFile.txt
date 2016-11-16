@@ -1,1 +1,3 @@
 I have fixed the bug!
+conflict1
+
