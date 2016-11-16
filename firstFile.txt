@@ -4,3 +4,4 @@ That's a dog
 conflict2
 conflict from master
 conflict from testBranch
+conflict from betaBranch
